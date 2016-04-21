@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: ivanloaNode1
+  host: ivanloanode1
+  disk_quota: 1024M
